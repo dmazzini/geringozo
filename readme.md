@@ -13,20 +13,15 @@ Se requiere que dada una palabra se retorne su traducción al geringozo
 
 ## Instrucciones
 - Crear un nuevo repositorio utilizando este repositorio como template (Boton: use this template).
-- Editar el código de la función definida en el archivo index.js con un algoritmo que permita obtener los resultados esperados en los test.
-- Ejecutar los test validando que todos resulten exitosos
+- Editar el código del método geringozo definido en la clase Geringozo con un algoritmo que permita obtener los resultados esperados en los test.
+- Ejecutar los test validando que todos resulten exitosos.
 
 ## Ejecutar Pruebas
 
-Instalar dependencias (mocha)
-```
-npm install
-```
+Importar como proyecto Maven desde IDE (sugerencia Eclipse o Intellij)
 
-Ejecutar test
-```
-npm run test
-```
+Run as JUnit Test
+
 ## Entrada
 
 ##### Parámetro 1
